@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import chalk from "chalk";
 import inquirer from "inquirer";
 console.log(chalk.yellow.bgWhite.italic(" \t Welcome to the Project of Rehan Khan --- Vowel's Counter"));
